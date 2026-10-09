@@ -7,16 +7,16 @@ search platform returning source-linked results in under 200ms for German
 Sparkassen. I own AI architecture standards across a 15-developer engineering
 organization.
 
-**[Ma'at](https://github.com/getmaat/maat)** · open source, Go, Apache-2.0
+**[Ma'at](https://github.com/getmaat/maat)** · Go · Apache-2.0  
 Docs-as-code CLI and GitHub Action that keeps docs, AGENTS.md, llms.txt and
 per-agent instruction files in sync. Drift fails CI.
 
-**[Ziglink](https://ziglink.app)** · live, closed source
+**[Ziglink](https://ziglink.app)** · live · closed source  
 Edge link-routing engine I built and run solo: per-link decision trees on
 country, device and time, rule-aware analytics, dynamic QR. Sub-50ms globally.
 SvelteKit on Cloudflare Workers.
 
-**Viewalize** · in development, closed source
+**Viewalize** · in development · closed source  
 3D Gaussian Splatting platform turning 4K phone video into browser-native
 real-estate walkthroughs.
 
