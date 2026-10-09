@@ -7,6 +7,9 @@ search platform returning source-linked results in under 200ms for German
 Sparkassen. I own AI architecture standards across a 15-developer engineering
 organization.
 
+**Daily practice:**  
+Claude Code and Cursor in production work, MCP servers for internal tooling, and agent-consumable context maintained as code rather than as documentation.
+
 **[Ma'at](https://github.com/getmaat/maat)** · Go · Apache-2.0  
 Docs-as-code CLI and GitHub Action that keeps docs, AGENTS.md, llms.txt and
 per-agent instruction files in sync. Drift fails CI.
